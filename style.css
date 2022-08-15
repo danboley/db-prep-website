@@ -1,6 +1,17 @@
 body {
     background: powderblue;
-}
-h1 {
     text-align: center;
 }
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
