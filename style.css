@@ -3,6 +3,12 @@ body {
     text-align: center;
 }
 
+h1,
+h2,
+h3 {
+    color:#080808;
+}
+
 ul {
     list-style-position: inside;
     text-align: center;
